@@ -1,0 +1,23 @@
+{
+  "name": "websockettest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm  install  "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sky-Children/WebSocketTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sky-Children/WebSocketTest/issues"
+  },
+  "homepage": "https://github.com/Sky-Children/WebSocketTest#readme",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
